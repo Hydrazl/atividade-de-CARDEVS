@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Copse&family=Passion+One&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: paleturquoise;
+}
+
+body h1 {
+    color: blueviolet;
+    text-align: center;
+    font-size: 4rem;
+}
+
+.imagem {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#aumento {
+    margin-top: 2rem;
+    height: auto;
+    width: 45vw;
+}
